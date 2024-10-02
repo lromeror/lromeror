@@ -1,4 +1,5 @@
-# 🚀 Hi, I'm Luis ROmero. Bienvenido a mi portafolio de proyectos
+# 🚀 Hi, I'm Luis ROmero. 
+# Bienvenido a mi portafolio de proyectos ✨
 
 <!--
 **lromeror/lromeror** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
