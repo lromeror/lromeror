@@ -1,4 +1,4 @@
-# 🚀 Hi, I'm Luis ROmero. 
+# 🚀 Hi, I'm Luis Romero. 
 # Bienvenido a mi portafolio de proyectos ✨
 
 <!--
