@@ -26,6 +26,9 @@ Soy un entusiasta de la **Ciencia de la Computación** con interés en varias á
 
 
 
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lromeror&langs_count=10&theme=tokyonight&layout=compact" alt="lromeror :: Top Langs" /></p>
+
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lromeror&show_icons=true&theme=radical)
 
