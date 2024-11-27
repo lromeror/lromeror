@@ -6,7 +6,12 @@
   <a href="#contacto" style="color:white; margin: 0 20px; text-decoration: none; font-weight: bold;">Contacto</a>
 </div>
 
-# 👨‍💻 **Hola, Luis Romero**
+<!-- Foto de Perfil -->
+<div style="text-align: center; margin-top: 20px;">
+  <img src="https://via.placeholder.com/150" alt="Luis Romero" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover;">
+</div>
+
+# 👨‍💻 **Hola, Luis Romero** <a name="informacion"></a>
 
 ### Un apasionado por el desarrollo web, la inteligencia artificial y la ciencia de datos.
 
@@ -16,9 +21,7 @@ Soy un entusiasta de la **Ciencia de la Computación** con interés en varias á
 - **Inteligencia Artificial**: Exploración de modelos y soluciones impulsadas por IA.
 - **Data Science**: Análisis de datos para la toma de decisiones y visualización de información.
 
-## 🧑‍💻 Información <a name="informacion"></a>
-
-Soy Luis Romero, un apasionado desarrollador con un enfoque en **Desarrollo Web**, **Inteligencia Artificial**, y **Data Science**. Siempre estoy buscando nuevas oportunidades para aprender y aplicar mis habilidades en la creación de soluciones tecnológicas.
+Siempre estoy buscando nuevas oportunidades para aprender y aplicar mis habilidades en la creación de soluciones tecnológicas.
 
 ---
 
@@ -97,5 +100,3 @@ Aplicación web diseñada para verificar la asistencia de usuarios en eventos en
 
 **Correo**: [lfromero@espol.edu.ec](mailto:lfromero@espol.edu.ec)  
 **Ubicación**: Taws, FIEC, ESPOL
-
----
