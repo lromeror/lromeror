@@ -8,7 +8,7 @@
 
 <!-- Foto de Perfil -->
 <div style="text-align: center; margin-top: 20px;">
-  <img src="https://via.placeholder.com/150" alt="Luis Romero" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover;">
+  <img src="assets/profile.jpeg" alt="Luis Romero" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover;">
 </div>
 
 # 👨‍💻 **Hola, Luis Romero** <a name="informacion"></a>
